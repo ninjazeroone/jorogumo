@@ -1,7 +1,6 @@
 #!/usr/bin/env python3.7
 
 import asyncio
-import logging
 import re
 import signal
 import sys
